@@ -2,7 +2,7 @@
 package nlpt_detect
 
 import (
-	"github.com/jbowles/cld2_nlpt"
+	"github.com/jbowles/nlpt-cld2"
 	"log"
 )
 
